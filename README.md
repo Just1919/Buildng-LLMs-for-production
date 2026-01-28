@@ -19,7 +19,7 @@ This repository focuses on the practical aspects of building, deploying, and mai
 
 ## 🛠️ Tech Stack
 - Python
-- PyTorch / Hugging Face
+- Tensorflow/ Hugging Face
 - Transformers
 - Docker
 - APIs & deployment tools
